@@ -1,5 +1,3 @@
----
-
 ### **1. Simple and Clean Description**
 **School Schedule Manager**  
 A Flutter-based web application designed to simplify school schedule management. Features include viewing timetables, scheduling extra lessons, and managing school-related tasks. Built to make school life more organized and efficient.
